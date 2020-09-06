@@ -4,5 +4,6 @@
 <h2>General Function</h2>
 <p>This tool lets you supply a list of products and their ID numbers and maintains a running list of your current stock.
   <br>Additionally, you may add stock goals for each product, and InventoryAssist will give you a visual representation of where the current stock
-  stands in relation to where you would like it, giving you a straighforward and convenient list of products and amounts you need to order</p>
+  stands in relation to where you would like it, giving you a straighforward and convenient list of products and amounts you need to order
+<br>Note, this is only a prototype, and was designed for a certain implementation and use case. It also requires JavaFX to run.</p>
   
