@@ -6,5 +6,5 @@
   <br>Additionally, you may add stock goals for each product, and InventoryAssist will give you a visual representation of where the current stock
   stands in relation to where you would like it, giving you a straighforward and convenient list of products and amounts you need to order
 <br>
-  <br>Note, this is only a prototype, and was designed for a certain implementation and use case. It also requires JavaFX to run.</p>
-  
+  <br>Note, this is only a prototype, and was designed for a certain implementation and use case. It also requires JavaFX to run.</p>  
+  ![Demonstration](https://img.youtube.com/vi/sfIkwIdY_8M/0.jpg)](https://www.youtube.com/watch?v=sfIkwIdY_8M)
